@@ -17,8 +17,12 @@ The purpose of this study is to establish associations within the data to identi
 
 Analysis of attritted customers were performed based on various qualitative & quantitative measures. Relevant recommendations that the bank can undertake to alleviate churning customers were proposed. Limitations of the dataset which may lead to analytics bias was also discussed.
 
-Visualizations utilizing Treemap, Boxplots, Scatter Plots, Pie Charts, Heatmaps were made in Tableau for data analysis:
+Visualizations utilizing Treemaps, Boxplots, Scatter Plots, Pie Charts, Heatmaps were made in Tableau for data analysis:
 
-[Tableau Storyboard #1](data/image/viz_1.png)
+![Tableau Storyboard #1](data/image/viz_1.png)
 
-[Tableau Storyboard #2](data/image/viz_2.png)
+![Tableau Storyboard #2](data/image/viz_2.png)
+
+![Tableau Storyboard #3](data/image/viz_3.png)
+
+![Tableau Storyboard #4](data/image/viz_4.png)

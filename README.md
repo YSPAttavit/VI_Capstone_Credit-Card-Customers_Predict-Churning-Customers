@@ -1,10 +1,10 @@
-# Analysis of Credit Card Churning Customers [Tableau, Powerpoint]
+# Analysis of Credit Card Churning Customers *<font size="5"> [Tableau, Powerpoint] </font>*
 
 [GitHub Powerpoint link](Vertical_Institute_Yong_Sook_Prasit_Attavit_CapstoneProject_GitHub.pdf)  |  [Google Drive PowerPoint Link](https://drive.google.com/file/d/1N7snyKvpXPw492mppC78W12K-oz_lbJa/view?usp=sharing)  |  [GitHub Repository Link](https://github.com/YongSookPrasitAttavit/VI_Capstone_Credit-Card-Customers_Predict-Churning-Customers/tree/main)
 
 The dataset used in this analysis was obtained from [Kaggle](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers?datasetId=982921). It contains information for more than 10,000 customers mentioning their age, salary, credit limit, attrition status, etc. with 23 columns.
 
-The interactive Tableau Storyboard created for this project can be found in the link below [Best Viewed when downloaded on a 24" monitor] :  
+The interactive Tableau Storyboard created for this project can be found in the link below [Best Viewed when downloaded & viewed natively in **Tableau** on a ~24" monitor] :  
 - [Tableau Storyboard Link](https://public.tableau.com/app/profile/ysook/viz/VI_CapstoneProject_16798032083060/Storyboard)
 
 ## Background

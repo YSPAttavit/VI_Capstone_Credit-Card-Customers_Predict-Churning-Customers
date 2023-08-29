@@ -1,4 +1,5 @@
 # Analysis of Credit Card Churning Customers *<font size="5"> [Tableau, Powerpoint] </font>*
+[Portfolio Link](https://yattavit.github.io/)
 
 [GitHub Powerpoint link](Vertical_Institute_Yong_Sook_Prasit_Attavit_CapstoneProject_GitHub.pdf)  |  [Google Drive PowerPoint Link](https://drive.google.com/file/d/1xLoupFLQ58gDDiqBUWum-zmTTU3uJUhm/view?usp=sharing)  |  [GitHub Repository Link](https://github.com/YongSookPrasitAttavit/VI_Capstone_Credit-Card-Customers_Predict-Churning-Customers/tree/main)
 
